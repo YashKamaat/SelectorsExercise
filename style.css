@@ -1,0 +1,57 @@
+/* Selectors Exercise */
+body {
+    background-color: #CED4D8;
+}
+/* Heading Element */
+h1 {
+   background-color: #AC6AC7; 
+}
+/* H2 elements same color */
+h2 {
+    color: rgb(255,165,0)
+}
+/* li elements blue */
+li {
+    color:dodgerblue;
+}
+/* Paragraph Gold */
+p{
+    background-color:goldenrod;
+}
+/* Inputs text or email pink dotted */
+input {
+    border: 5px dotted pink;
+  }
+  /* /* Class first and fff backgound */
+p.first {
+    background-color: #fff;
+}
+
+/* Exercise 9 */
+#important {
+    border: 3px dashed #0000ff;
+}
+
+/* Exercise 10 */
+div p {
+font-size: 30px;
+}
+    /*Exercise 11  */
+    input [type="email"] {
+        background: #808080;
+      }
+    
+
+    /* Exercise 12 */
+    div:nth-of-type(3) {
+        border-bottom: 4px solid hotpink;
+      }
+
+      /* Exercise 13 */
+  div:nth-of-type(3n) { 
+  border: 7px solid rgb(255,255,255);
+}
+/* Exercise 14 */
+.em div{
+    font-size: 25px seashell; 
+}
