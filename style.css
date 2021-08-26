@@ -67,3 +67,26 @@ em {
   font-size: 25px;
   color: seashell;
 } */
+
+/* Bonus */
+/* 1  */
+input[type="checkbox"]:checked {
+    margin-left: 40px;
+}
+
+/* 2 */
+label {
+    text-transform: lowercase;
+}
+/* 3 */
+#imporant::first-letter {
+    color: lime; font-size: 90px;
+}
+/* 4 */
+h1:hover {
+    color: navy;
+}
+/* 5 */
+a:visited {
+    color: silver;
+}
